@@ -1,0 +1,29 @@
+﻿Build started 2017-05-27 18:36:45.
+     1>Project "C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Porównywarka_do_League_of_Legends\Porównywarka_do_League_of_Legends.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Porównywarka_do_League_of_Legends.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Porownywarka.cpp main.cpp
+         Porownywarka.cpp
+         Generating Code...
+         Compiling...
+         main.cpp
+         Generating Code...
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Debug\Porównywarka_do_League_of_Legends.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Porównywarka_do_League_of_Legends.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Debug\Porównywarka_do_League_of_Legends.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Debug\Porównywarka_do_League_of_Legends.lib" /MACHINE:X86 Debug\Generator.obj
+         Debug\main.obj
+         Debug\Porownywarka.obj
+         Debug\Przeciwnik.obj
+         Debug\Uzytkownik.obj
+         LINK : C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Debug\Porównywarka_do_League_of_Legends.exe not found or not built by the last incremental link; performing full link
+         Porównywarka_do_League_of_Legends.vcxproj -> C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Debug\Porównywarka_do_League_of_Legends.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Debug\Porównywarka_do_League_of_Legends.exe;#1" /manifest "Debug\Porównywarka_do_League_of_Legends.exe.intermediate.manifest"
+       FinalizeBuildStatus:
+         Deleting file "Debug\Porównywarka_do_League_of_Legends.unsuccessfulbuild".
+         Touching "Debug\Porównywarka_do_League_of_Legends.lastbuildstate".
+     1>Done Building Project "C:\Users\Łukasz\Documents\Visual Studio 2010\Projects\Porównywarka_do_League_of_Legends\Porównywarka_do_League_of_Legends\Porównywarka_do_League_of_Legends.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:07.36
